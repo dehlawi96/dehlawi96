@@ -22,7 +22,7 @@
 <details>
     <summary><b>👤 About</b></summary>
         <p>
-            <img align="right" width="250" src="https://cdn.cosmos.so/dc62a836-a8f7-4cb0-a6ba-e0aefbd66036?format=jpeg" alt="surreal art" />
+            <img align="right" width="250" height="200" src="https://cdn.cosmos.so/dc62a836-a8f7-4cb0-a6ba-e0aefbd66036?format=jpeg" alt="surreal art" />
 
 <blockquote>
 
