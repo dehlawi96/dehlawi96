@@ -1,11 +1,40 @@
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soheb91) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/9ion1_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadsoheb91@gmail.com) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dehlawi96&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dehlawi96&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dehlawi96&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- Header -->
+<!-- Using supported HTML to style the README-->
+<img alt="header" src="https://cdn.cosmos.so/a209ef2b-36b5-4254-8e85-e851c2398be5?format=jpeg" height="50" width="1088"/>
+<h1 align="center">Hi. I'm Soheb</h1>
 
----
-[![](https://visitcount.itsvg.in/api?id=dehlawi96&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- Contact Details-->
+<p align="center">
+    <kbd>
+        <a href="https://dev.to/9ion1" title="Dev.to Soheb"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white"/></a>
+        <a href="https://www.linkedin.com/in/soheb91/" title="LinkedIn Soheb"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" /></a>
+        <a href="https://x.com/9ion1_"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white"/></a>
+    </kbd>
+</p>
+
+
+<!-- Interactive About Sections-->
+<details>
+    <summary><b>𓆝 𓆟 Interact with Me𓆞 𓆝 𓆟</b></summary>
+    <br>
+
+<!-- Some Dirt on Me-->
+<details>
+    <summary><b>👤 About</b></summary>
+        <p>
+            <img align="right" width="250" src="https://cdn.cosmos.so/dc62a836-a8f7-4cb0-a6ba-e0aefbd66036?format=jpeg" alt="surreal art" />
+
+<blockquote>
+
+I'm a Software engineer based in India, And I love customizing my Linux desktop, Building Software with character ^ Open Source!
+
+I enjoy attending hackathons and programming competitions, as it's a great opportunity to meet new awesome people and to grind on new technologies, also having free beverages!
+
+When I got free time on my palm, I like to use it to read classic literature and fictions, my current favorite is "The Midnight Library" a novel about living many dreams!
+
+</blockquote>
+
+----
+</p>
+</details>
+
